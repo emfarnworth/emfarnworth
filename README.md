@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Emily Flores @emfarnworth
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning how to code in R, Python, SQL, and C!
+- 🌱 I’m currently learning how to code in R, Python, and SQL!
 - 💞️ I’m looking to collaborate on anything that will help me further my programming skills
 - 📫 How to reach me: flores.emily0297@gmail.com
 
